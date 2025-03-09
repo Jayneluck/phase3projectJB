@@ -1,4 +1,4 @@
-# SyriaTeal Customer churn and retention analysis
+# SyriaTel Customer churn and retention analysis
 Author : Jane Bahati
 ## Business Understanding
 Customer retention is a major challenge in the telecommunications industry, where companies operate in a competitive market with numerous service providers. High customer churn rates lead to revenue loss, increased customer acquisition costs, and reduced market share. By understanding churn patterns, telecom companies can take proactive measures to retain customers and improve satisfaction.
