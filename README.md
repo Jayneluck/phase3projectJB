@@ -13,4 +13,4 @@ Multiple machine learning models were developed to predict customer churn for Sy
 ## Recommendation
 To reduce churn, SyriaTel should improve customer service, offer personalized discounts, and use its churn model to engage at-risk customers proactively. Enhancing billing transparency and flexible pricing can also reduce dissatisfaction. Continuous model monitoring will ensure accuracy and adaptability. These strategies will boost retention, satisfaction, and revenue.
 ## For more information
-See the full analysis in the or review this presentation contact information Jaynembahati@gmail.com
+See the full analysis in the notebook https://github.com/Jayneluck/phase3projectJB/blob/main/notebook.pdfx.pdf or review this presentation contact information Jaynembahati@gmail.com
